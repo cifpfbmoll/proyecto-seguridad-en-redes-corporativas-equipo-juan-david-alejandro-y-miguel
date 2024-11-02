@@ -48,5 +48,3 @@
 - **2.3.2** ejecución de la copia
 - **2.3.3** restauración de la copia de seguridad
 - **2.3.4** comprobación de la restauración
-
-- 
