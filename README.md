@@ -2,49 +2,49 @@
 
 # Índice - Proyecto
 
-## 1. Sprint 1: hardening de ubuntu
-### 1.1 instalación de ubuntu advantage
-- **1.1.1** comandos de instalación de ubuntu advantage tools
+## 1. Sprint 1: Hardening de Ubuntu
+### 1.1 Instalación de Ubuntu Advantage
+- **1.1.1** Comandos de instalación de Ubuntu Advantage Tools
 
-### 1.2 instalación de ubuntu security guide (USG)
+### 1.2 Instalación de Ubuntu Security Guide (USG)
 
-### 1.3 auditoría del `cis_level2_server`
-- **1.3.1** resultados y comentarios de la auditoría
+### 1.3 Auditoría del `cis_level2_server`
+- **1.3.1** Resultados y Comentarios de la Auditoría
 
-### 1.4 creación del archivo `tailor.xml`
+### 1.4 Creación del Archivo `tailor.xml`
 
-### 1.5 modificación del archivo `tailor.xml`
+### 1.5 Modificación del Archivo `tailor.xml`
 
-### 1.6 corrección (fix) sobre el archivo `tailor.xml`
+### 1.6 Corrección (fix) sobre el Archivo `tailor.xml`
 
-### 1.7 auditoría `cis_level2_server` con cambios aplicados
+### 1.7 Auditoría `cis_level2_server` con Cambios Aplicados
 
-### 1.8 configuraciones globales según seminario incibe
-- **1.8.1** configuración del arranque grub
-- **1.8.2** establecer una contraseña de arranque
-- **1.8.3** establecer permisos en el fichero de configuración de arranque
-- **1.8.4** obligar al uso de contraseña en el modo "single user"
+### 1.8 Configuraciones Globales según Seminario Incibe
+- **1.8.1** Configuración del Arranque Grub
+- **1.8.2** Establecer una Contraseña de Arranque
+- **1.8.3** Establecer Permisos en el Fichero de Configuración de Arranque
+- **1.8.4** Obligar al Uso de Contraseña en el Modo "single user"
 
-### 1.9 configuración de usuario y grupo
+### 1.9 Configuración de Usuario y Grupo
 
-### 1.10 comprobación de cumplimiento sobre las actualizaciones
+### 1.10 Comprobación de Cumplimiento Sobre las Actualizaciones
 
-### 1.11 última auditoría del `cis_level2_server`
+### 1.11 Última Auditoría del `cis_level2_server`
 
-## 2. Sprint 2 - copias de seguridad
-### 2.1 instalación duplicati
-- **2.1.1** problema y solución instalación duplicati
+## 2. Sprint 2 - Copias de Seguridad
+### 2.1 Instalación Duplicati
+- **2.1.1** Problema y Solución Instalación Duplicati
 
-### 2.2 primera copia de seguridad (copia documentos)
-- **2.2.1** configuración inicial
-- **2.2.2** conexión drive-duplicati
-- **2.2.3** continuación de la configuración
-- **2.2.4** ejecución de la copia de seguridad
-- **2.2.5** restauración de la copia de seguridad
-- **2.2.6** comprobación de la restauración
+### 2.2 Primera Copia de Seguridad (copia documentos)
+- **2.2.1** Configuración Inicial
+- **2.2.2** Conexión Google Drive-Duplicati
+- **2.2.3** Continuación de la Configuración
+- **2.2.4** Ejecución de la Copia de Seguridad
+- **2.2.5** Restauración de la Copia de Seguridad
+- **2.2.6** Comprobación de la Restauración
 
-### 2.3 segunda copia de seguridad (copia imágenes)
-- **2.3.1** configuración copia
-- **2.3.2** ejecución de la copia
-- **2.3.3** restauración de la copia de seguridad
-- **2.3.4** comprobación de la restauración
+### 2.3 Segunda Copia de Seguridad (copia imágenes)
+- **2.3.1** Configuración Copia
+- **2.3.2** Ejecución de la Copia
+- **2.3.3** Restauración de la Copia de Seguridad
+- **2.3.4** Comprobación de la Restauración
