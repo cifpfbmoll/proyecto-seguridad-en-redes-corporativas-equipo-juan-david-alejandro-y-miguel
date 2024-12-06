@@ -51,28 +51,29 @@
 
 ## 3. Sprint 3 - Hardening Apache
 ### 3.1 Instalación de Apache
-- **3.1.1** Configuraciones Globales Apache
-- **3.1.2** Ficheros de configuraciones
-- **3.1.3** Configuración de usuarios y grupos
-- **3.1.4** Ocultación de versiones
-- **3.1.5** Exposición mínima de módulos
-- **3.1.6** Creación de VirtualHost con nombre y apellido
-- **3.1.7** Configuración múltiple y de contexto: directiva options
 
-### 3.2 Ficheros .htaccess
+### 3.2. Configuraciones Globales Apache
+- **3.2.1** Ficheros de configuraciones
+- **3.2.2** Configuración de usuarios y grupos
+- **3.2.3** Ocultación de versiones
+- **3.2.4** Exposición mínima de módulos
+- **3.2.5** Creación de VirtualHost con nombre y apellido
+- **3.2.6** Configuración múltiple y de contexto: directiva options
 
-### 3.3 Hotlinking: Uso y Bloqueo
+### 3.3 Ficheros .htaccess
 
-### 3.4 Configuración HTTPS y Redirección HTTP a HTTPS
+### 3.4 Hotlinking: Uso y Bloqueo
 
-### 3.5 Módulo mod_security
+### 3.5 Configuración HTTPS y Redirección HTTP a HTTPS
 
-### 3.6 Descarga e Instalación de Kali Linux
+### 3.6 Módulo mod_security
 
-### 3.7 Ataque DoS Mediante Metasploit (Slowloris)
+### 3.7 Descarga e Instalación de Kali Linux
 
-### 3.8 Habilitar mod_security, Clonar e Instalar las reglas OWASP
+### 3.8 Ataque DoS Mediante Metasploit (Slowloris)
 
-### 3.9 Reglas para detectar SQLInjection
+### 3.9 Habilitar mod_security, Clonar e Instalar las reglas OWASP
 
-### 3.10 Realizar de nuevo el ataque DoS y comprobar que el servidor está accesible
+### 3.10 Reglas para detectar SQLInjection
+
+### 3.11 Realizar de nuevo el ataque DoS y comprobar que el servidor está accesible
