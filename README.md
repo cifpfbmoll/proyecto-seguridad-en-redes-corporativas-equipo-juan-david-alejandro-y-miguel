@@ -48,3 +48,31 @@
 - **2.3.2** Ejecución de la Copia
 - **2.3.3** Restauración de la Copia de Seguridad
 - **2.3.4** Comprobación de la Restauración
+
+## 3. Sprint 3 - Hardening Apache
+### 3.1 Instalación de Apache
+- **3.1.1** Configuraciones Globales Apache
+- **3.1.2** Ficheros de configuraciones
+- **3.1.3** Configuración de usuarios y grupos
+- **3.1.4** Ocultación de versiones
+- **3.1.5** Exposición mínima de módulos
+- **3.1.6** Creación de VirtualHost con nombre y apellido
+- **3.1.7** Configuración múltiple y de contexto: directiva options
+
+### 3.2 Ficheros .htaccess
+
+### 3.3 Hotlinking: Uso y Bloqueo
+
+### 3.4 Configuración HTTPS y Redirección HTTP a HTTPS
+
+### 3.5 Módulo mod_security
+
+### 3.6 Descarga e Instalación de Kali Linux
+
+### 3.7 Ataque DoS Mediante Metasploit (Slowloris)
+
+### 3.8 Habilitar mod_security, Clonar e Instalar las reglas OWASP
+
+### 3.9 Reglas para detectar SQLInjection
+
+### 3.10 Realizar de nuevo el ataque DoS y comprobar que el servidor está accesible
