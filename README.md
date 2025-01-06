@@ -77,3 +77,36 @@
 ### 3.10 Reglas para detectar SQLInjection
 
 ### 3.11 Realizar de nuevo el ataque DoS y comprobar que el servidor está accesible
+
+## 4. Sprint 4 - Hardening SSH
+### 4.1 Autenticación SSH (Clave Pública)
+
+### 4.2 Cambio de Puerto Por Defecto
+
+### 4.3 Comprobar Límite de la Vinculación IP (Deshabilitación Opcional)
+
+### 4.4 Deshabilitar usuario ROOT para login
+
+### 4.5 Limitar acceso SSH de los usuarios del sistema
+- **4.5.1** Prueba de Limitación con Usuarios
+
+### 4.6 Deshabilitar Inicio de Sesión Basado en Contraseña
+- **4.6.1** Habilitar Inicio de Sesión Basado en Contraseña
+
+### 4.7 Deshabilitar Contraseñas Vacías
+
+### 4.8 Limitar Intentos de Autenticación Fallida
+
+### 4.9 Limitar Conexiones Simultáneas No Autenticadas
+
+### 4.10 Habilitar Banner de Advertencia para Usuarios de SSH
+
+### 4.11 Configurar Intervalo de Tiempo de Espera de Cierre de Sesión Inactiva
+
+### 4.12 Deshabilitar X11forwarding
+
+### 4.13 Chroot (Bloquear Usuarios a sus Directorios de Inicio)
+
+### 4.14 Investigar Doble Factor de Autenticación en SSH
+- **4.14.1** Configurar Doble Factor de Autenticación de SSH
+- **4.14.2** Comprobación Doble Factor de Autenticación de SSH
