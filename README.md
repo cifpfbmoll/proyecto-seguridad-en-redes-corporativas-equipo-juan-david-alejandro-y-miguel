@@ -105,8 +105,58 @@
 
 ### 4.12 Deshabilitar X11forwarding
 
-### 4.13 Chroot (Bloquear Usuarios a sus Directorios de Inicio)
+## 5. Sprint 5 - Escaneo de vulnerabilidades
+### 5.1 Descarga de mestasploitable2
 
-### 4.14 Investigar Doble Factor de Autenticación en SSH
-- **4.14.1** Configurar Doble Factor de Autenticación de SSH
-- **4.14.2** Comprobación Doble Factor de Autenticación de SSH
+### 5.2 Escaneo mediante la técnica SYN Scan
+- **5.2.1** Comentario del Escaneo
+
+### 5.3 Escaneo de los Principales Puertos UDP abiertos
+- **5.3.1** Comentario del Escaneo
+
+### 5.4 Escaneo lanzado el script vuln sobre metasploitable2 y servidor
+- **5.4.1** Comentario del Escaneo
+
+### 5.5 Escaneo Agresivo sobre metasploitable y servidor
+- **5.5.1** Comentario del Escaneo
+
+### 5.6 Escaneo de Descubrimiento de Equipos en la Red de Casa
+- **5.6.1** Comentario del Escaneo
+
+## 6. Sprint 6 - Seguridad perimetral con pfSense
+### 6.1 Instalación y Configuración de pfSense
+
+### 6.2 Preguntas previas a Configurar Reglas
+- **6.2.1** ¿El servidor web y SSH es accesible desde el exterior?
+- **6.2.2** ¿El servidor tiene acceso a internet?
+- **6.2.3** ¿El equipo de los empleados tiene internet?
+- **6.2.4** ¿El servidor web es alcanzable desde el equipo de los empleados? ¿Y viceversa?
+
+### 6.3 Configuración de Reglas
+- **6.3.1** El servidor tenga acceso a internet
+- **6.3.2** Los empleados tengan acceso a internet
+- **6.3.3** El servidor web sea accesible únicamente por el puerto 443 y redirija el tráfico del 80 al 443
+- **6.3.4** El servidor SSH sea accesible únicamente desde el puerto que elegiste en el Sprint de Hardening SSH
+- **6.3.5** Una regla que no permita el tráfico directo entre el servidor y los empleados, y al revés
+- **6.3.6** Regla preparada para el bloqueo del tráfico
+- **6.3.7** Regla contra ciberataque
+- **6.3.8** Regla Propia
+
+## 7. Sprint 7 - IDS, VPN y Análisis de Tráfico de Red con pfSense
+### 7.1 Instalación IDS/IPS Suricata
+
+### 7.2 Aplicación de Reglas Snort
+
+### 7.3 Ataque DoS sobre Servidor Web
+
+### 7.4 Habilitar IDS (Modo IPS [Legacy Mode])
+- **7.4.1** Nuevo Ataque DoS
+- **7.4.2** Revisión y Comprobación de Cambios
+- **7.4.3** Comentario sobre Información del Log
+
+### 7.5 Habilitar VPN en pfSense
+- **7.5.1** Selección de Tecnología VPN
+- **7.5.2** Instalación y Funcionamiento de OpenVPN o WireGuard
+
+### 7.6 Instalación de ntopng
+- **7.6.1** Comentario de ntopng
